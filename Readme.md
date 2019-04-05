@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/Testapp/MainPage.xaml) (VB: [MainPage.xaml](./VB/Testapp/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/Testapp/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Testapp/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Testapp/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Testapp/MainPage.xaml.vb))
 * [SpellCheckerHelper.cs](./CS/Testapp/SpellCheckerHelper.cs) (VB: [SpellCheckerHelper.vb](./VB/Testapp/SpellCheckerHelper.vb))
 <!-- default file list end -->
 # How to configure spell check in the RichEditControl
